@@ -1,0 +1,4 @@
+name = "WorkGroups"
+uuid = "145aa9f3-054b-4953-919b-6a55b6c9057d"
+authors = ["Erik Schnetter <schnetter@gmail.com>"]
+version = "0.1.0"
